@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Borrame
+namespace Login_JW
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Borrame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new LOGIN());
         }
     }
 }

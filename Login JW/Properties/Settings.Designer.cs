@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Borrame.Properties
+namespace Login_JW.Properties
 {
 
 

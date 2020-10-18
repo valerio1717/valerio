@@ -1,0 +1,13 @@
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\bin\Debug\Login JW.exe.config
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\bin\Debug\Login JW.exe
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\bin\Debug\Login JW.pdb
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.csprojAssemblyReference.cache
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login_JW.Properties.Resources.resources
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.csproj.GenerateResource.cache
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.csproj.CoreCompileInputs.cache
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.csproj.CopyComplete
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.exe
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login JW.pdb
+C:\Users\Andreina Valerio\Desktop\Nueva carpeta\valerio.git\Login JW\obj\Debug\Login_JW.LOGIN.resources

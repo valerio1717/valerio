@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borrame", "Borrame.csproj", "{9B2DD97D-75A3-441A-94CB-903F4BE543E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login JW", "Login JW.csproj", "{B55E303D-28ED-433F-ADE8-36137F80A223}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9B2DD97D-75A3-441A-94CB-903F4BE543E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B2DD97D-75A3-441A-94CB-903F4BE543E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B2DD97D-75A3-441A-94CB-903F4BE543E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B2DD97D-75A3-441A-94CB-903F4BE543E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55E303D-28ED-433F-ADE8-36137F80A223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55E303D-28ED-433F-ADE8-36137F80A223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55E303D-28ED-433F-ADE8-36137F80A223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55E303D-28ED-433F-ADE8-36137F80A223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3D3B80D1-FBE8-4E37-823A-1453F663C33F}
+		SolutionGuid = {73140A22-1C76-469D-A92A-258E9AC9B29D}
 	EndGlobalSection
 EndGlobal
